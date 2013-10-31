@@ -1,7 +1,5 @@
 Andy Hardt | Holly French | Dave Abel
-PL Fall 2012 | Interpreter | readme.txt
-
-A file called readme.txt that describes your interpreter, including what features you've implemented, what (if anything) doesn't work, etc.
+PL Fall 2012 | Interpreter | Readme.md
 
 Usage:
     - To compile the interpreter: execute 'make' in the '*/interpreter1' directory
