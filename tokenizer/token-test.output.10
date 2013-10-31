@@ -1,0 +1,6 @@
+(:open
+"abc\ndef":string
+):close
+(:open
+"abc \n def":string
+):close

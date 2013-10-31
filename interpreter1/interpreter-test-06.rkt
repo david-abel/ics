@@ -1,0 +1,8 @@
+(+)
+(*)
+(display (* (+ 0)))
+(display (*))
+(define f (lambda (n) (if (= n 1) (display 5) 0)))
+(f 1)
+(f 0)
+(display f)

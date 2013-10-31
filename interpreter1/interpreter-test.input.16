@@ -1,0 +1,2 @@
+(define f (lambda (my-list) (if (null? my-list) 1 (f (cdr my-list)))))
+(f (list 2 3 4))

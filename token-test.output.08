@@ -1,0 +1,9 @@
+(:open
+list:symbol
+8:int
+(:open
+):close
+5:int
+':quote
+a:symbol
+):close

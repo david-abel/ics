@@ -1,0 +1,7 @@
+(:open
+let*:symbol
+(:open
+2:int
+3:int
+):close
+):close

@@ -1,0 +1,8 @@
+(define foo (lambda (n) (cond ((+ 2 3) (+ n n)) (else (* n n)))))
+(foo 20)
+(define foo (lambda (n) (cond ((= 2 3) (+ n n)) (else (* n n)))))
+(foo 20)
+(define foo (lambda (n) (cond ((= 2 3) (+ n n)) ((= 0 0) (* n 2)) (else (* n n)))))
+(foo 20)
+(define foo (lambda (n) (cond ((= 2 3) (+ n n)) (else (* n n)) ((+ 2 3) (+ 2 3)))))
+(foo 20)

@@ -1,0 +1,7 @@
+(define sum-to
+  (lambda (x)
+    (if (= x 0) 0 (+ x (sum-to (- x 1))))))
+
+(sum-to 4)
+(sum-to 12)
+(sum-to 0)

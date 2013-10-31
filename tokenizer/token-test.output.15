@@ -1,0 +1,7 @@
+(:open
+define:symbol
+(:open
+x:symbol
+3:int
+):close
+):close

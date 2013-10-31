@@ -1,0 +1,6 @@
+(:open
+cond:symbol
+[:open
+"hello world":string
+]:close
+):close

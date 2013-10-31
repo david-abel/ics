@@ -1,0 +1,3 @@
+(null? (quote ()))
+(null? 0)
+(null? (quote ("hello")))

@@ -1,0 +1,7 @@
+(define x 3)
+(define y 0)
+(define foo (lambda () (lambda () (+ x y))))
+(define goo (foo))
+(goo)
+(define x 5)
+(goo)

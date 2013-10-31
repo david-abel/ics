@@ -1,0 +1,11 @@
+(:open
+define:symbol
+hello-world:symbol
+(:open
+lambda:symbol
+(:open
+x:symbol
+):close
+"hello world":string
+):close
+):close
